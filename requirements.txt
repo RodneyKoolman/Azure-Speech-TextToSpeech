@@ -1,1 +1,1 @@
-azure-cognitiveservices-speech
+azure-cognitiveservices-speech==1.18.0
